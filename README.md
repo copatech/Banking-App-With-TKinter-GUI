@@ -10,6 +10,6 @@ It is created using python built-in library TKINTER
 Requirements:
 * pillow
 
-You can run this python project on a terminal
+You can clone run this python project on a terminal
 
 Python Version 3.11 
